@@ -650,7 +650,7 @@
   {
     "id": 109,
     "keyword": "Email to Tracey - For booking",
-    "note": "Hi Tracey\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
+    "note": "Hi Tracey,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
     "category": "emails"
   },
   {
@@ -699,6 +699,12 @@
     "id": 117,
     "keyword": "Collection from warehouse",
     "note": "Dear Warehouse Team,\n\nThe customer will collect the item from [Warehouse Name] and is expected to arrive around [Time] with the consignment number and one valid government-issued ID proof.\n\nPlease ensure the item is ready for collection.\n\nKind Regards,\nFurdeco",
+    "category": "emails"
+  },
+  {
+    "id": 118,
+    "keyword": "Needs to go to a shipping company.",
+    "note": "Hi Harj,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
     "category": "emails"
   }
 ]
