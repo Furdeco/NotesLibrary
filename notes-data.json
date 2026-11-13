@@ -110,19 +110,19 @@
   {
     "id": 19,
     "keyword": "Delivery window (Pending)",
-    "note": "Customer called to check the delivery timing. After checking the available information, informed the customer that a text message with a 3-hour delivery window will be sent one day prior.",
+    "note": "Customer called to check the delivery timing. After checking the available information, informed the customer that an SMS & Email with a 3-hour delivery window will be sent one day prior.",
     "category": "incoming"
   },
   {
     "id": 20,
     "keyword": "Collection window (Pending)",
-    "note": "Customer called to check the collection timing. After checking the available information, informed the customer that a text message with a 3-hour collection window will be sent one day prior.",
+    "note": "Customer called to check the collection timing. After checking the available information, informed the customer that an SMS & Email with a 3-hour collection window will be sent one day prior.",
     "category": "incoming"
   },
   {
     "id": 21,
     "keyword": "Exchange window (Pending)",
-    "note": "Customer called to check the exchange timing. After checking the available information, informed the customer that a text message with a 3-hour exchange window will be sent one day prior.",
+    "note": "Customer called to check the exchange timing. After checking the available information, informed the customer that an SMS & Email with a 3-hour exchange window will be sent one day prior.",
     "category": "incoming"
   },
   {
