@@ -374,19 +374,19 @@
   {
     "id": 63,
     "keyword": "Delivery Confirmation - SMS & Email",
-    "note": "Your delivery has been booked for [Day, Date]. You will receive an SMS one day before the scheduled date confirming your 3-hour delivery window. Thank you, Team Furdeco.",
+    "note": "Your delivery has been booked for [Day, Date]. You will receive an SMS & Email one day before the scheduled date confirming your 3-hour delivery window. Thank you, Team Furdeco.",
     "category": "incoming"
   },
   {
     "id": 64,
     "keyword": "Collection Confirmation - SMS & Email",
-    "note": "Your collection has been booked for [Day, Date]. You will receive an SMS one day before the scheduled date confirming your 3-hour collection window. Thank you, Team Furdeco.",
+    "note": "Your collection has been booked for [Day, Date]. You will receive an SMS & Email one day before the scheduled date confirming your 3-hour collection window. Thank you, Team Furdeco.",
     "category": "incoming"
   },
   {
     "id": 65,
     "keyword": "Exchange Confirmation - SMS & Email",
-    "note": "Your exchange has been booked for [Day, Date]. You will receive an SMS one day before the scheduled date confirming your 3-hour delivery window. Thank you, Team Furdeco.",
+    "note": "Your exchange has been booked for [Day, Date]. You will receive an SMS & Email one day before the scheduled date confirming your 3-hour exchange window. Thank you, Team Furdeco.",
     "category": "incoming"
   },
   {
