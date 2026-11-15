@@ -745,60 +745,66 @@
   },
   {
     "id": 125,
+    "keyword": "Safe place delivery - Fail",
+    "note": "Delivery Crew called to confirm the customer wants the item left in a safe place. Seller instructions does not allow this, so fail code RB5050 was shared with the crew.",
+    "category": "crew"
+  },
+  {
+    "id": 126,
     "keyword": "Email to Tracey - For booking",
     "note": "Hi Tracey,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
     "category": "emails"
   },
   {
-    "id": 126,
+    "id": 127,
     "keyword": "No number - Customer",
     "note": "Good Morning,\n \nFurdeco is a 2 man delivery company and we do not have a working contact number to book in your delivery from subject seller , please call Furdeco on 0121 285 5255 or email us your best contact number, quoting your postcode and name to delivery@furdeco.co.uk\n \nKind regards\nFurdeco",
     "category": "emails"
   },
   {
-    "id": 127,
+    "id": 128,
     "keyword": "No number - Seller",
     "note": "Good Morning,\n  \nI would like to request you to kindly provide us with a contact number for the above order number as no contact is provided.\nYour quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 128,
+    "id": 129,
     "keyword": "Wrong number",
     "note": "Hi,\n \nI would like to request you to kindly provide us with an alternative contact for the above order number as the given contact is wrong number . Your quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 129,
+    "id": 130,
     "keyword": "Number belongs to someone else",
     "note": "Hi,\n \nI would like to request you to kindly provide us with an alternative contact for the above order number as the given contact belongs to someone else . Your quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 130,
+    "id": 131,
     "keyword": "For no answer",
     "note": "Hi,\n \nI would like to request you to kindly provide us with an alternative contact for the above order number as the given seems incorrect . Your quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 131,
+    "id": 132,
     "keyword": "Incomplete",
     "note": "Hi,\n \nI would like to request you to kindly provide us with an alternative contact for the above order number as the given is incomplete . Your quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 132,
+    "id": 133,
     "keyword": "Not getting connected",
     "note": "Hi,\n \nI would like to request you to kindly provide us with an alternative contact for the above order number isn't getting connected . Your quick response in this matter will be greatly appreciated.\n \nKind Regards\n \nFurdeco",
     "category": "emails"
   },
   {
-    "id": 133,
+    "id": 134,
     "keyword": "Collection from warehouse",
     "note": "Dear Warehouse Team,\n\nThe customer will collect the item from [Warehouse Name] and is expected to arrive around [Time] with the consignment number and one valid government-issued ID proof.\n\nPlease ensure the item is ready for collection.\n\nKind Regards,\nFurdeco",
     "category": "emails"
   },
   {
-    "id": 134,
+    "id": 135,
     "keyword": "Needs to go to a shipping company.",
     "note": "Hi Harj,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
     "category": "emails"
