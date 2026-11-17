@@ -494,7 +494,7 @@
   {
     "id": 83,
     "keyword": "Number Removal",
-    "note": "Called to schedule the delivery but customer identified as there are unknown about the order and wanted the number to be removed.",
+    "note": "Called to schedule the delivery, but the customer stated that they were unaware of the order and requested that their number be removed.",
     "category": "outbound"
   },
   {
@@ -752,7 +752,7 @@
   {
     "id": 126,
     "keyword": "Email to Tracey - For booking",
-    "note": "Hi Tracey,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nRahul Bharti",
+    "note": "Hi Tracey,\n \nThe customer would like to schedule the delivery for Day , Date Month. Please arrange the delivery accordingly. \n \nKind Regards,\nFurdeco",
     "category": "emails"
   },
   {
